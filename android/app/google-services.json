@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617615912256",
+    "firebase_url": "https://chatapp-5f107.firebaseio.com",
+    "project_id": "chatapp-5f107",
+    "storage_bucket": "chatapp-5f107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617615912256:android:e8a9054471864837e31ea5",
+        "android_client_info": {
+          "package_name": "com.vaibhavsultania.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617615912256-gd2054kjig06cn4c7imvemuip14icji9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRrOixT33zqAhGVbZrJBzjqGaaCKM40p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617615912256-gd2054kjig06cn4c7imvemuip14icji9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
